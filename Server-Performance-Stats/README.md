@@ -1,4 +1,4 @@
-Step by step to running the command
+#Step by step to running the command
 
 1. Clone the repository
 
